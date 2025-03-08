@@ -1,0 +1,19 @@
+body{
+    background-color: #d1d3ff;
+    height: 100vh;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 46px;
+    display: flex;
+    justify-content: center;
+}
+
+#score-container{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
